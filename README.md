@@ -81,5 +81,6 @@ GitHub Pages Live Site:
 ### 📸 Output
 
 Landing page successfully created with header, features section and footer.
+![Landing Page Output](images/page_landing.png)
 
 ---
